@@ -14,7 +14,9 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![6](https://user-images.githubusercontent.com/94588708/190857597-582615ea-cc4b-491a-a3fa-040039f60f41.png)
+
+
 
 ## DESIGN STEPS
 
@@ -166,25 +168,31 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![1](https://user-images.githubusercontent.com/94588708/190857609-98dc599a-35e3-40d3-99cb-5064c67194da.png)
+
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![2](https://user-images.githubusercontent.com/94588708/190857623-17926ba4-5651-4d33-8115-7b11dfc14b58.png)
 
-Include your plot here
 
 ### Classification Report
 
-Include Classification Report here
+![3](https://user-images.githubusercontent.com/94588708/190857630-7252462f-caeb-4652-ae4a-b350cf4f63b9.png)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![4](https://user-images.githubusercontent.com/94588708/190857638-e904c2b5-d6f8-496f-be21-69158adabee7.png)
+
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![5](https://user-images.githubusercontent.com/94588708/190857642-6d14202f-fdac-4093-8c27-3d7113e17d25.png)
+
 
 ## RESULT
+
+Thus a Neural Network Classification Model is created and executed successfully
